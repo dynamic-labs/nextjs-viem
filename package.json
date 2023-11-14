@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-viem",
+  "name": "@dynamic-labs/nextjs-viem",
   "version": "0.1.0",
   "private": true,
   "scripts": {
